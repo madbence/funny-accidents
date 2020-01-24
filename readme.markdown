@@ -1,9 +1,9 @@
 # funny-accidents
 
-> We don't make mistakes, only happy little accidents
+> We don't make mistakes, only happy little accidents.
 
 inspired by [Jake Archibald's tweet][tweet], and by my own [old pet project][jadeite],
-when i was kinda obsessed with the syntax of [pug] (it was called jade back then)
+when i was kinda obsessed with the syntax of [pug][pug] (it was called jade back then).
 
 ## install
 
