@@ -1,0 +1,29 @@
+{
+  "name": "funny-accidents",
+  "version": "1.0.0",
+  "description": "We don't make mistakes, only happy little accidents.",
+  "main": "index.js",
+  "dependencies": {
+    "js-levenshtein": "^1.1.6"
+  },
+  "files": [
+    "index.js",
+    "patch.js"
+  ],
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  },
+  "scripts": {
+    "test": "mocha '*.test.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madbence/funny-accidents.git"
+  },
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/funny-accidents/issues"
+  },
+  "homepage": "https://github.com/madbence/funny-accidents#readme"
+}
