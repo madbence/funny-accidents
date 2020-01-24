@@ -29,7 +29,7 @@ consoel.log('hola');
 
 allow happy little mistakes on a specific object:
 
-```
+```js
 import patch from 'funny-accidents/patch'
 
 const user = {
@@ -60,3 +60,4 @@ MIT
 [proxy]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy
 [pug]: https://pugjs.org/api/getting-started.html
 [jadeite]: https://github.com/madbence/node-jadeite
+[tweet]: https://twitter.com/jaffathecake/status/1220272251909615616

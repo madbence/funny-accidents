@@ -1,6 +1,6 @@
 {
   "name": "funny-accidents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "We don't make mistakes, only happy little accidents.",
   "main": "index.js",
   "dependencies": {
